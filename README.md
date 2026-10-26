@@ -14,13 +14,13 @@ An independent analysis of whether Alphabet's growth in Google Cloud and AI gene
 | Metric | Base Case |
 | :--- | ---: |
 | Research Rating | Pending |
-| DCF Value per Share | $115.52 |
+| DCF Value per Share | $93.24 |
 | Market Price at Valuation Date | $343.22 |
-| Implied Downside | 66.34% |
-| WACC | 13.1% |
+| Implied Downside | 70.9% |
+| WACC | 9.82% |
 | Terminal Growth Rate | 2.50% |
 
-**Valuation date:** [16/10/26]
+**Valuation date:** [26/10/26]
 **Share class:** [GOOG or GOOGL]
 **Currency:** USD
 
@@ -67,7 +67,7 @@ Through this project, I developed practical experience in:
 - Read Investment Thesis
 
 ## 8. Sources
-- Alphabet FY2025 Annual Report
+- Alphabet FY2023-2025 Annual Report
 - Alphabet Investor Relations
 - Alphabet historical share-price data
 
